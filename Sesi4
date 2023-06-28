@@ -1,0 +1,6 @@
+1.Berikut adalah tiga contoh aplikasi yang dibangun menggunakan teknologi Flutter:
+
+1.Google Ads
+2.Reflectly
+3.Hamilton Musical
+2.Untuk menampilkan informasi software yang dibutuhkan oleh Flutter, Anda dapat menggunakan perintah flutter doctor pada command prompt atau terminal setelah menginstal Flutter dan konfigurasinya. Perintah ini akan memeriksa pengaturan sistem Anda dan menampilkan laporan tentang ketersediaan dan kecocokan dependensi yang diperlukan oleh Flutter.
